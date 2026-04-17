@@ -14,12 +14,12 @@ It’s a beginner-friendly project focused on learning JavaScript date operation
 
 ## 🛠 Technologies Used
 
-| HTML       |
-| CSS        |
-| JavaScript |
+- | HTML       |
+- | CSS        |
+- | JavaScript |
 
 ## 📂GitHub Repository
-
+https://github.com/raj-tanmay07/CodeAlpha_AgeCalculator.git
 
 ## 📌 How to Use
 
